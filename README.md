@@ -39,10 +39,4 @@ I'm passionate about programming and new technologies. Below you'll find a summa
 
 ---
 
-## 📫 Contact
-
-- GitHub: [TechniKsawery](https://github.com/TechniKsawery)
-
----
-
 I am eager to join interesting projects or help with programming challenges. Feel free to contact me and let's collaborate!
