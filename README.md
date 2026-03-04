@@ -32,7 +32,7 @@ I'm passionate about programming and new technologies. Below you'll find a summa
 
 ## 🌱 Developing Competencies
 
-- Teamwork in the GitHub Classroom environment
+- Work in the GitHub Classroom environment
 - Independence and creativity in problem solving
 - Quickly learning new technologies and tools
 - Documenting code and projects
