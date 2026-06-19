@@ -2,34 +2,31 @@
 
 **AI-Driven Developer | Prompt Engineer | Cybersecurity Enthusiast (Red Team)**
 
-Welcome to my digital domain. I build software differently than traditional developers. I specialize in **AI-Driven Development** — I architect complex systems, define business logic, and orchestrate the entire development lifecycle through advanced prompt engineering, while AI models handle the direct code generation under my strict supervision. 
-
-This approach allows me to independently build, debug, and deploy full-stack systems, mobile apps, and low-level tools with maximum efficiency. 
+Welcome to my digital domain. I am passionate about programming and the constant evolution of new technologies. I approach software development as a continuous learning process, where I combine my analytical skills with modern AI tools to build efficient and scalable solutions. My workflow revolves around architecting systems, defining clean logic, and orchestrating the development lifecycle using advanced prompt engineering, while ensuring the generated code meets high standards through rigorous testing.
 
 ### 💼 Work Philosophy & Availability
-I operate exclusively as a **Solo Developer in a 100% remote and asynchronous environment**. I thrive on "Deep Work" and complete independence. Give me the technical requirements, and the AI and I will deliver the solution. 
-*Note: I do not use LinkedIn or engage in social media platforms. I am not looking for traditional team-based environments, daily meetings, or social integrations. My code, repositories, and automated pipelines speak for my skills.*
+I operate exclusively as a **Solo Developer in a 100% remote and asynchronous environment**. I believe that true productivity thrives on "Deep Work" and total autonomy. I am highly comfortable working independently; I prioritize clear, asynchronous communication and minimal social friction. 
+I am not looking for traditional office-based or team-integrated environments involving frequent meetings. I prefer to be judged by the quality and performance of the systems I deliver. I do not use LinkedIn or social media platforms — I believe my repositories are the best proof of my dedication and professional growth.
 
 ### 💡 Technical Arsenal
-* **AI & Architecture:** Advanced Prompt Engineering, AI-Assisted Architecture, UML Modeling, TDD (pytest, marshmallow).
-* **Languages:** Python, TypeScript, JavaScript, C++, C, Kotlin, Dart, HTML/CSS, SQL.
-* **Tools & DevOps:** GitHub Actions (CI/CD), Git, Docker, CMake, Makefile, Python venv.
-* **Frameworks & DBs:** Node.js, Flutter, Supabase, Firebase, Prisma, PostgreSQL, MS SQL Server.
-* **Interests:** Cybersecurity (Red Team / Ethical Hacking).
-
-### 🎓 Education
-* **TechniSchools Lublin** ([technischools.com](https://technischools.com/))
+* **AI & Architecture:** Advanced Prompt Engineering, AI-Assisted Architecture design, UML Modeling, TDD (Test Driven Development using pytest and marshmallow).
+* **Languages:** Python (automation, algorithmic challenges), TypeScript/JavaScript (web apps), C++/C (systems programming), Kotlin/Dart (mobile development), HTML/CSS, SQL.
+* **Tools & DevOps:** GitHub Actions (CI/CD workflows), Git (GitHub Classroom experience), Docker, Makefile, CMake, Python virtual environments.
+* **Frameworks & Databases:** Node.js, Flutter, Supabase, Firebase, Prisma, PostgreSQL, MS SQL Server.
+* **Interests:** Red Team operations, Ethical Hacking, cybersec research, and reverse engineering.
 
 ### 🚀 Selected Projects (AI-Powered)
-*All projects below were developed entirely by me, using AI models for direct code implementation based on my precise architectural prompts.*
+*All projects below were developed independently, where I orchestrated AI models to handle code implementation while maintaining full control over the architectural logic.*
 
-* **GradePredictor** — Cross-platform Dart/Flutter application with Python web extraction and Gemini AI integration.
-* **Task Management Platform** — TypeScript/Node.js backend with full CI/CD pipeline via GitHub Actions and Docker.
-* **GymCore Backend** — Secure API architecture using Prisma ORM and PostgreSQL.
-* **Hotel DB Project** — Advanced MS SQL Server relational database with triggers, procedures, and views.
-* **Projekt-Cpp-2025** — Low-level task manager built with C/C++, compiled via CMake and Makefile.
+* [GradePredictor](https://github.com/TechniKsawery/gradepredictor) — Cross-platform application (Flutter) integrated with school systems (Librus). It utilizes custom Python scripts for data extraction and Gemini AI for analyzing educational trends.
+* [Task Management Platform](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend system built with TypeScript/Node.js, featuring a full CI/CD pipeline implemented via GitHub Actions and Docker containers.
+* [GymCore Backend](https://github.com/gymcore/backend) — Secure API architecture leveraging Prisma ORM and PostgreSQL, focusing on robust authentication and database migrations.
+* [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-db-sql-project) — Relational database project for reservation systems, implementing advanced business logic through triggers, stored procedures, and complex views.
+* [Projekt-Cpp-2025](https://github.com/TechniKsawery/projekt-cpp-2025) — A systems programming project developed in C/C++, focusing on performance and build-tool proficiency (CMake/Makefile).
+* [SklepCzekolada](https://github.com/TechniKsawery/Test-Case-y-SklepCzekolada) — TDD-based test automation suite ensuring code reliability and data integrity.
+* [BookManager](https://github.com/TechniKsawery/bookmanager) — Android mobile application managing asynchronous data fetching via Open Library API, following the MVVM architectural pattern.
 
-📫 **Contact me:**
+📫 **Contact:**
 If you have a challenging, purely remote, independent task, feel free to contact me at:
 * 📧 [blochksawery@gmail.com](mailto:blochksawery@gmail.com)
 * 🏫 [u30_ksablo_lbn@technischools.com](mailto:u30_ksablo_lbn@technischools.com)
@@ -42,34 +39,30 @@ If you have a challenging, purely remote, independent task, feel free to contact
 
 **AI-Driven Developer | Prompt Engineer | Pasjonat Cyberbezpieczeństwa (Red Team)**
 
-Witaj w mojej cyfrowej domenie. Tworzę oprogramowanie inaczej niż tradycyjni programiści. Specjalizuję się w **AI-Driven Development** — to ja projektuję architekturę systemów, definiuję logikę biznesową i zarządzam całym cyklem życia oprogramowania poprzez zaawansowaną inżynierię promptów, podczas gdy sztuczna inteligencja, pod moim ścisłym nadzorem, generuje docelowy kod. 
+Witaj w mojej cyfrowej domenie. Pasjonuję się programowaniem i ciągłym odkrywaniem nowych technologii. Skupiam się na rozwoju oprogramowania, łącząc własne założenia architektoniczne z generowaniem kodu wspieranym przez AI. Zarządzam cyklem życia oprogramowania i jego logiką, wykorzystując narzędzia AI do optymalizacji procesu implementacji oraz zapewnienia jakości poprzez rygorystyczne testy.
 
-Dzięki temu podejściu potrafię całkowicie samodzielnie budować i wdrażać aplikacje full-stackowe, mobilne oraz narzędzia niskopoziomowe z maksymalną wydajnością.
+### 💼 Podejście do pracy
+Szukam możliwości współpracy wyłącznie w trybie **100% zdalnym i asynchronicznym**, gdzie mogę działać w pełni samodzielnie. Moim priorytetem jest "Deep Work" i całkowita niezależność stanowiskowa. Preferuję ograniczoną interakcję społeczną na rzecz konkretnych wyników technicznych. Nie korzystam z LinkedIna ani mediów społecznościowych; wierzę, że moje repozytoria i zautomatyzowane procesy najlepiej świadczą o moim zaangażowaniu i umiejętnościach.
 
-### 💼 Filozofia Pracy i Dostępność
-Działam wyłącznie jako **Solo Developer w środowisku w 100% zdalnym i asynchronicznym**. Moim żywiołem jest "Deep Work" i całkowita niezależność. Daj mi wymagania techniczne, a ja i AI dostarczymy gotowe rozwiązanie.
-*Uwaga: Nie korzystam z LinkedIn ani z mediów społecznościowych. Nie szukam tradycyjnego środowiska opartego na dynamice zespołowej, codziennych spotkaniach ani integracjach. Moje umiejętności reprezentują moje repozytoria i zautomatyzowane procesy.*
-
-### 💡 Arsenał Techniczny
-* **AI i Architektura:** Zaawansowany Prompt Engineering, projektowanie wspierane przez AI, UML, TDD (pytest, marshmallow).
-* **Języki Programowania:** Python, TypeScript, JavaScript, C++, C, Kotlin, Dart, HTML/CSS, SQL.
+### 💡 Umiejętności Techniczne
+* **AI i Architektura:** Advanced Prompt Engineering, projektowanie wspierane przez AI, UML, TDD (pytest, marshmallow).
+* **Języki Programowania:** Python (automatyzacja, algorytmy), TypeScript, JavaScript, C++, C, Kotlin, Dart (Flutter), HTML/CSS, SQL.
 * **Narzędzia i DevOps:** GitHub Actions (CI/CD), Git, Docker, CMake, Makefile, Python venv.
 * **Bazy Danych i Frameworki:** Node.js, Flutter, Supabase, Firebase, Prisma, PostgreSQL, MS SQL Server.
-* **Zainteresowania:** Cyberbezpieczeństwo (operacje Red Team / Ethical Hacking).
+* **Zainteresowania:** Operacje Red Team, Ethical Hacking, cyberbezpieczeństwo.
 
-### 🎓 Edukacja
-* **TechniSchools Lublin** ([technischools.com](https://technischools.com/))
+### 🚀 Wybrane Projekty
+*Wszystkie poniższe projekty zostały zbudowane w 100% samodzielnie. Sztuczna inteligencja pełniła rolę zespołu wykonawczego dla moich wytycznych architektonicznych.*
 
-### 🚀 Wybrane Projekty (Generowane przez AI)
-*Wszystkie poniższe projekty zostały zbudowane przeze mnie w 100% samodzielnie. Sztuczna inteligencja pełniła rolę zespołu wykonawczego dla moich wytycznych architektonicznych.*
-
-* **GradePredictor** — Wieloplatformowa aplikacja w Dart/Flutter ze skryptami do ekstrakcji danych (Python) i integracją Gemini AI.
-* **Platforma Zarządzania Zadaniami** — Backend w TypeScript/Node.js, pełen potok CI/CD poprzez GitHub Actions oraz Docker.
-* **GymCore Backend** — Bezpieczna architektura REST API wykorzystująca Prisma ORM oraz PostgreSQL.
-* **Hotel DB Project** — Zaawansowana relacyjna baza MS SQL Server wyposażona w wyzwalacze, procedury i widoki.
-* **Projekt-Cpp-2025** — Niskopoziomowy menedżer zadań napisany w C/C++, zarządzany za pomocą CMake i Makefile.
+* [GradePredictor](https://github.com/TechniKsawery/gradepredictor) — Aplikacja wieloplatformowa (Flutter) ze skryptami do ekstrakcji danych (Python) i integracją Gemini AI.
+* [Platforma Zarządzania Zadaniami](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend (TypeScript/Node.js) z pełnym CI/CD przez GitHub Actions i Docker.
+* [GymCore Backend](https://github.com/gymcore/backend) — Bezpieczna architektura API wykorzystująca Prisma ORM i PostgreSQL.
+* [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-db-sql-project) — Relacyjna baza danych (MS SQL Server) z wyzwalaczami, procedurami i widokami.
+* [Projekt-Cpp-2025](https://github.com/TechniKsawery/projekt-cpp-2025) — Programowanie systemowe w C/C++ zarządzane za pomocą CMake i Makefile.
+* [SklepCzekolada](https://github.com/TechniKsawery/Test-Case-y-SklepCzekolada) — Testy automatyczne w oparciu o metodologię TDD.
+* [BookManager](https://github.com/TechniKsawery/bookmanager) — Aplikacja na Androida w Kotlin/Jetpack Compose.
 
 📫 **Kontakt:**
-Jeśli dysponujesz ambitnym zleceniem do wykonania w 100% zdalnie i niezależnie, skontaktuj się ze mną:
+Jeśli dysponujesz ambitnym, niezależnym zadaniem do wykonania w trybie zdalnym, zapraszam do kontaktu:
 * 📧 [blochksawery@gmail.com](mailto:blochksawery@gmail.com)
 * 🏫 [u30_ksablo_lbn@technischools.com](mailto:u30_ksablo_lbn@technischools.com)
