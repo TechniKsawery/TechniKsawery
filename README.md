@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ksawery Bloch (Ksavi)
+# 👋 Hi there! I'm Ksawery (Ksavi)
 
 **AI-Driven Developer | Prompt Engineer | Cybersecurity Enthusiast (Red Team)**
 
@@ -35,7 +35,7 @@ If you have a challenging, purely remote, independent task, feel free to contact
 
 *(Wersja Polska)*
 
-# 👋 Cześć! Jestem Ksawery Bloch (Ksavi)
+# 👋 Cześć! Jestem Ksawery (Ksavi)
 
 **AI-Driven Developer | Prompt Engineer | Pasjonat Cyberbezpieczeństwa (Red Team)**
 
