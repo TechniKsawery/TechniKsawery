@@ -22,7 +22,6 @@ I am not looking for traditional office-based or team-integrated environments in
 * [Task Management Platform](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend system built with TypeScript/Node.js, featuring a full CI/CD pipeline implemented via GitHub Actions and containerized deployment through Docker.
 * [Scout Pro](https://github.com/TechniKsawery/Zadania-praktyki-03) — Fullstack football scouting platform (React/TypeScript + Node.js/Express + Prisma) with player CRUD, AI-assisted reports, role-based access, realtime notifications, video upload, and PDF export.
 * [Editorial Workflow Automation System](https://github.com/TechniKsawery/Zadanie-na-praktyki_02) — B2B fullstack editorial workflow platform automating the article lifecycle (IDEA → PUBLISHED) with RBAC, JWT auth, Socket.IO updates, and a scheduled publishing worker.
-* [GymCore Backend](https://github.com/gymcore/backend) — Secure API architecture leveraging Prisma ORM and PostgreSQL, focusing on robust authentication and database migrations.
 * [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-db-sql-project) — Relational database project for reservation systems, implementing advanced business logic through triggers, stored procedures, and indexed views in MS SQL Server.
 * [Projekt-Cpp-2025](https://github.com/TechniKsawery/projekt-cpp-2025) — A systems programming project developed in C/C++, focusing on performance and build-tool proficiency (CMake/Makefile).
 * [SklepCzekolada](https://github.com/TechniKsawery/Test-Case-y-SklepCzekolada) — TDD-based test automation suite ensuring code reliability and data integrity.
@@ -61,7 +60,6 @@ Nie interesują mnie klasyczne środowiska biurowe oparte na częstych spotkania
 * [Platforma Zarządzania Zadaniami](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend (TypeScript/Node.js) z pełnym CI/CD przez GitHub Actions i Docker.
 * [Scout Pro](https://github.com/TechniKsawery/Zadania-praktyki-03) — Fullstackowa platforma scoutingowa dla klubów piłkarskich (React/TypeScript + Node.js/Express + Prisma) z modułem zawodników, raportami AI, rolami użytkowników, powiadomieniami realtime, uploadem wideo i eksportem PDF.
 * [System Automatyzacji Pracy Redakcji](https://github.com/TechniKsawery/Zadanie-na-praktyki_02) — Fullstackowa platforma B2B do workflow redakcyjnego automatyzująca cykl życia artykułów (IDEA → PUBLISHED) z RBAC, JWT, Socket.IO i workerem do publikacji zaplanowanej.
-* [GymCore Backend](https://github.com/gymcore/backend) — Bezpieczna architektura API wykorzystująca Prisma ORM i PostgreSQL.
 * [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-db-sql-project) — Relacyjna baza danych (MS SQL Server) z wyzwalaczami, procedurami i widokami.
 * [Projekt-Cpp-2025](https://github.com/TechniKsawery/projekt-cpp-2025) — Programowanie systemowe w C/C++ zarządzane za pomocą CMake i Makefile.
 * [SklepCzekolada](https://github.com/TechniKsawery/Test-Case-y-SklepCzekolada) — Testy automatyczne w oparciu o metodologię TDD.
