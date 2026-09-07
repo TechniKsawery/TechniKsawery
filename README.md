@@ -10,7 +10,7 @@ I am not looking for traditional office-based or team-integrated environments in
 
 ### 💡 Technical Arsenal
 * **AI & Architecture:** Advanced Prompt Engineering, AI-Assisted Architecture design, UML Modeling, TDD (Test Driven Development using pytest and marshmallow).
-* **Languages:** Python (automation, algorithmic challenges), TypeScript/JavaScript (web apps), C++/C (systems programming), Kotlin/Dart (mobile development), HTML/CSS, SQL.
+* **Languages:** Python (automation, algorithmic challenges), TypeScript/JavaScript (web apps), PHP (backend & legacy refactoring), C++/C (systems programming), Kotlin/Dart (mobile development), HTML/CSS, SQL.
 * **Tools & DevOps:** GitHub Actions (CI/CD workflows), Git (GitHub Classroom experience), Docker, Makefile, CMake, Python virtual environments.
 * **Frameworks & Databases:** Node.js, Flutter, Supabase, Firebase, Prisma, PostgreSQL, MS SQL Server.
 * **Interests:** Red Team operations, Ethical Hacking, cybersec research, and reverse engineering.
@@ -18,6 +18,7 @@ I am not looking for traditional office-based or team-integrated environments in
 ### 🚀 Selected Projects (AI-Powered)
 *All projects below were developed independently, where I orchestrated AI models to handle code implementation while maintaining full control over the architectural logic.*
 
+* [KSeF 2.0 QR Code Generator](https://github.com/TechniKsawery/ksef-qr-php-) — Standalone, zero-dependency PHP engine generating official KSeF 2.0 verification QR codes (KOD I) for the Polish Ministry of Finance. Features SHA-256 Base64URL cryptographic hashing, vector SVG / PNG rendering, and seamless backward compatibility across PHP 7.0 – 8.x in legacy production environments.
 * [GradePredictor](https://github.com/TechniKsawery/gradepredictor) — Cross-platform application (Flutter) integrated with school systems (Librus). It utilizes custom Python scripts for data extraction, advanced prediction algorithms, and Gemini AI for personalized educational recommendations.
 * [Task Management Platform](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend system built with TypeScript/Node.js, featuring a full CI/CD pipeline implemented via GitHub Actions and containerized deployment through Docker.
 * [Scout Pro](https://github.com/TechniKsawery/Zadania-praktyki-03) — Fullstack football scouting platform (React/TypeScript + Node.js/Express + Prisma) with player CRUD, AI-assisted reports, role-based access, realtime notifications, video upload, and PDF export.
@@ -48,7 +49,7 @@ Nie interesują mnie klasyczne środowiska biurowe oparte na częstych spotkania
 
 ### 💡 Umiejętności Techniczne
 * **AI i Architektura:** Advanced Prompt Engineering, projektowanie wspierane przez AI, UML, TDD (pytest, marshmallow).
-* **Języki Programowania:** Python (automatyzacja, algorytmy), TypeScript, JavaScript, C++, C, Kotlin, Dart (Flutter), HTML/CSS, SQL.
+* **Języki Programowania:** Python (automatyzacja, algorytmy), TypeScript, JavaScript, PHP (backend i refaktoryzacja legacy), C++, C, Kotlin, Dart (Flutter), HTML/CSS, SQL.
 * **Narzędzia i DevOps:** GitHub Actions (CI/CD), Git, Docker, CMake, Makefile, Python venv.
 * **Bazy Danych i Frameworki:** Node.js, Flutter, Supabase, Firebase, Prisma, PostgreSQL, MS SQL Server.
 * **Zainteresowania:** Operacje Red Team, Ethical Hacking, cyberbezpieczeństwo.
@@ -56,6 +57,7 @@ Nie interesują mnie klasyczne środowiska biurowe oparte na częstych spotkania
 ### 🚀 Wybrane Projekty
 *Wszystkie poniższe projekty zostały zbudowane w 100% samodzielnie. Sztuczna inteligencja pełniła rolę zespołu wykonawczego dla moich wytycznych architektonicznych.*
 
+* [KSeF 2.0 QR Generator](https://github.com/TechniKsawery/ksef-qr-php-) — Samodzielny moduł PHP (zero Composera i zależności zewnętrznych) generujący oficjalne kody QR KSeF 2.0 (KOD I) dla Ministerstwa Finansów. Wdrożony na środowisku produkcyjnym z obsługą skrótów SHA-256 Base64URL, wektorowego SVG oraz pełnej kompatybilności wstecznej (PHP 7.0 – 8.x).
 * [GradePredictor](https://github.com/TechniKsawery/gradepredictor) — Aplikacja wieloplatformowa (Flutter) ze skryptami do ekstrakcji danych (Python) i integracją Gemini AI.
 * [Platforma Zarządzania Zadaniami](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend (TypeScript/Node.js) z pełnym CI/CD przez GitHub Actions i Docker.
 * [Scout Pro](https://github.com/TechniKsawery/Zadania-praktyki-03) — Fullstackowa platforma scoutingowa dla klubów piłkarskich (React/TypeScript + Node.js/Express + Prisma) z modułem zawodników, raportami AI, rolami użytkowników, powiadomieniami realtime, uploadem wideo i eksportem PDF.
