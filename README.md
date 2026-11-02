@@ -19,6 +19,8 @@ I am not looking for traditional office-based or team-integrated environments in
 ### 🚀 Selected Projects (AI-Powered)
 *All projects below were developed independently, where I orchestrated AI models to handle code implementation while maintaining full control over the architectural logic.*
 
+* [Local Network Penetration Testing Report](https://github.com/TechniKsawery/lan-pentest-report) — Authorized LAN/WiFi security assessment covering LLMNR/NBT-NS poisoning, DHCPv6/IPv6 MITM, NTLM relay, and ARP poisoning.
+* [Windows Security Recommendations](https://github.com/TechniKsawery/windows-security-reco) — Hands-on red-team labs exploring Windows data recovery, NTLM authentication, Windows Hello, TPM 2.0, and BitLocker.
 * [KSeF 2.0 QR Code Generator](https://github.com/TechniKsawery/ksef-qr-portfolio) — Standalone, zero-dependency PHP engine generating official KSeF 2.0 verification QR codes (KOD I) for the Polish Ministry of Finance.
 * [GradePredictor](https://github.com/TechniKsawery/gradepredictor) — Cross-platform application (Flutter) integrated with school systems (Librus). It utilizes custom Python scripts for data extraction and AI-assisted analytics via Gemini.
 * [Task Management Platform](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend system built with TypeScript/Node.js, featuring a full CI/CD pipeline implemented via GitHub Actions and containerized with Docker.
@@ -59,6 +61,8 @@ Nie interesują mnie klasyczne środowiska biurowe oparte na częstych spotkania
 ### 🚀 Wybrane Projekty
 *Wszystkie poniższe projekty zostały zbudowane w 100% samodzielnie. Sztuczna inteligencja pełniła rolę zespołu wykonawczego dla moich wytycznych architektonicznych.*
 
+* [Raport z testów penetracyjnych sieci lokalnej](https://github.com/TechniKsawery/lan-pentest-report) — Autoryzowany audyt bezpieczeństwa LAN/WiFi obejmujący poisoning LLMNR/NBT-NS, DHCPv6/IPv6 MITM, NTLM relay i ARP poisoning.
+* [Rekomendacje bezpieczeństwa Windows](https://github.com/TechniKsawery/windows-security-reco) — Praktyczne laboratoria red team dotyczące odzyskiwania danych, uwierzytelniania NTLM, Windows Hello, TPM 2.0 i BitLockera.
 * [KSeF 2.0 QR Generator](https://github.com/TechniKsawery/ksef-qr-portfolio) — Samodzielny moduł PHP (zero Composera i zależności zewnętrznych) generujący oficjalne kody QR KSeF 2.0 (KOD I) dla Ministerstwa Finansów.
 * [GradePredictor](https://github.com/TechniKsawery/gradepredictor) — Aplikacja wieloplatformowa (Flutter) ze skryptami do ekstrakcji danych (Python) i integracją Gemini AI.
 * [Platforma Zarządzania Zadaniami](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend (TypeScript/Node.js) z pełnym CI/CD przez GitHub Actions i Docker.
