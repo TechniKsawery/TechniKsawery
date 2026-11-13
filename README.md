@@ -19,18 +19,18 @@ I am not looking for traditional office-based or team-integrated environments in
 ### 🚀 Selected Projects (AI-Powered)
 *All projects below were developed independently, where I orchestrated AI models to handle code implementation while maintaining full control over the architectural logic.*
 
-* [Local Network Penetration Testing Report](https://github.com/TechniKsawery/lan-pentest-report) — Authorized LAN/WiFi security assessment covering LLMNR/NBT-NS poisoning, DHCPv6/IPv6 MITM, NTLM relay, and ARP poisoning.
-* [Windows Security Recommendations](https://github.com/TechniKsawery/windows-security-reco) — Hands-on red-team labs exploring Windows data recovery, NTLM authentication, Windows Hello, TPM 2.0, and BitLocker.
+* [Local Network Penetration Testing Report](https://github.com/TechniKsawery/local-network-pentest-report) — Authorized LAN/WiFi security assessment covering LLMNR/NBT-NS poisoning, DHCPv6/IPv6 MITM, NTLM relay, and ARP poisoning.
+* [Windows Security Recommendations](https://github.com/TechniKsawery/windows-red-team-lab) — Hands-on red-team labs exploring Windows data recovery, NTLM authentication, Windows Hello, TPM 2.0, and BitLocker.
 * [KSeF 2.0 QR Code Generator](https://github.com/TechniKsawery/ksef-qr-portfolio) — Standalone, zero-dependency PHP engine generating official KSeF 2.0 verification QR codes (KOD I) for the Polish Ministry of Finance.
-* [Multimodal Fare Planner](https://github.com/TechniKsawery/multimodal-fare-planner) — Multimodal journey planner for Poland and Germany, combining MOTIS, GTFS and OpenStreetMap with fare estimation, discounts, city tickets and passenger profiles.
-* [GradePredictor](https://github.com/TechniKsawery/gradepredictor) — Cross-platform application (Flutter) integrated with school systems (Librus). It utilizes custom Python scripts for data extraction and AI-assisted analytics via Gemini.
+* [Multimodal Fare Planner](https://github.com/TechniKsawery/multimodal-journey-fare-planner) — Multimodal journey planner for Poland and Germany, combining MOTIS, GTFS and OpenStreetMap with fare estimation, discounts, city tickets and passenger profiles.
+* [GradePredictor](https://github.com/TechniKsawery/grade-predictor) — Cross-platform application (Flutter) integrated with school systems (Librus). It utilizes custom Python scripts for data extraction and AI-assisted analytics via Gemini.
 * [Task Management Platform](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend system built with TypeScript/Node.js, featuring a full CI/CD pipeline implemented via GitHub Actions and containerized with Docker.
-* [Scout Pro](https://github.com/TechniKsawery/Zadania-praktyki-03) — Fullstack football scouting platform (React/TypeScript + Node.js/Express + Prisma) with player CRUD, AI-assisted reports, role-based access control (RBAC), and analytics dashboard.
-* [Editorial Workflow Automation System](https://github.com/TechniKsawery/Zadanie-na-praktyki_02) — B2B fullstack editorial workflow platform automating the article lifecycle (IDEA → PUBLISHED) with real-time status tracking and multi-user collaboration.
-* [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-db-sql-project) — Relational database project for reservation systems, implementing advanced business logic through triggers, stored procedures, and views (MS SQL Server).
-* [Projekt-Cpp-2025](https://github.com/TechniKsawery/projekt-cpp-2025) — A systems programming project developed in C/C++, focusing on performance and build-tool proficiency (CMake/Makefile).
-* [SklepCzekolada](https://github.com/TechniKsawery/Test-Case-y-SklepCzekolada) — TDD-based test automation suite ensuring code reliability and data integrity.
-* [BookManager](https://github.com/TechniKsawery/bookmanager) — Android mobile application managing asynchronous data fetching via Open Library API, following the MVVM architectural pattern.
+* [Scout Pro](https://github.com/TechniKsawery/scout-pro-football-platform) — Fullstack football scouting platform (React/TypeScript + Node.js/Express + Prisma) with player CRUD, AI-assisted reports, role-based access control (RBAC), and analytics dashboard.
+* [Editorial Workflow Automation System](https://github.com/TechniKsawery/mini-jira-team-management_02) — B2B fullstack editorial workflow platform automating the article lifecycle (IDEA → PUBLISHED) with real-time status tracking and multi-user collaboration.
+* [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-database-management-system) — Relational database project for reservation systems, implementing advanced business logic through triggers, stored procedures, and views (MS SQL Server).
+* [Projekt-Cpp-2025](https://github.com/TechniKsawery/cpp-console-project-2025) — A systems programming project developed in C/C++, focusing on performance and build-tool proficiency (CMake/Makefile).
+* [SklepCzekolada](https://github.com/TechniKsawery/sklepczekolada-test-automation) — TDD-based test automation suite ensuring code reliability and data integrity.
+* [BookManager](https://github.com/TechniKsawery/android-book-manager) — Android mobile application managing asynchronous data fetching via Open Library API, following the MVVM architectural pattern.
 
 📫 **Contact:**
 If you have a challenging, purely remote, independent task, feel free to contact me at:
@@ -62,18 +62,18 @@ Nie interesują mnie klasyczne środowiska biurowe oparte na częstych spotkania
 ### 🚀 Wybrane Projekty
 *Wszystkie poniższe projekty zostały zbudowane w 100% samodzielnie. Sztuczna inteligencja pełniła rolę zespołu wykonawczego dla moich wytycznych architektonicznych.*
 
-* [Raport z testów penetracyjnych sieci lokalnej](https://github.com/TechniKsawery/lan-pentest-report) — Autoryzowany audyt bezpieczeństwa LAN/WiFi obejmujący poisoning LLMNR/NBT-NS, DHCPv6/IPv6 MITM, NTLM relay i ARP poisoning.
-* [Rekomendacje bezpieczeństwa Windows](https://github.com/TechniKsawery/windows-security-reco) — Praktyczne laboratoria red team dotyczące odzyskiwania danych, uwierzytelniania NTLM, Windows Hello, TPM 2.0 i BitLockera.
+* [Raport z testów penetracyjnych sieci lokalnej](https://github.com/TechniKsawery/local-network-pentest-report) — Autoryzowany audyt bezpieczeństwa LAN/WiFi obejmujący poisoning LLMNR/NBT-NS, DHCPv6/IPv6 MITM, NTLM relay i ARP poisoning.
+* [Rekomendacje bezpieczeństwa Windows](https://github.com/TechniKsawery/windows-red-team-lab) — Praktyczne laboratoria red team dotyczące odzyskiwania danych, uwierzytelniania NTLM, Windows Hello, TPM 2.0 i BitLockera.
 * [KSeF 2.0 QR Generator](https://github.com/TechniKsawery/ksef-qr-portfolio) — Samodzielny moduł PHP (zero Composera i zależności zewnętrznych) generujący oficjalne kody QR KSeF 2.0 (KOD I) dla Ministerstwa Finansów.
-* [Multimodal Fare Planner](https://github.com/TechniKsawery/multimodal-fare-planner) — Multimodalna wyszukiwarka podróży po Polsce i Niemczech, łącząca MOTIS, GTFS i OpenStreetMap z szacowaniem taryf, ulg, biletów miejskich i profili pasażerów.
-* [GradePredictor](https://github.com/TechniKsawery/gradepredictor) — Aplikacja wieloplatformowa (Flutter) ze skryptami do ekstrakcji danych (Python) i integracją Gemini AI.
+* [Multimodal Fare Planner](https://github.com/TechniKsawery/multimodal-journey-fare-planner) — Multimodalna wyszukiwarka podróży po Polsce i Niemczech, łącząca MOTIS, GTFS i OpenStreetMap z szacowaniem taryf, ulg, biletów miejskich i profili pasażerów.
+* [GradePredictor](https://github.com/TechniKsawery/grade-predictor) — Aplikacja wieloplatformowa (Flutter) ze skryptami do ekstrakcji danych (Python) i integracją Gemini AI.
 * [Platforma Zarządzania Zadaniami](https://github.com/TechniKsawery/zadanie-na-praktyki) — Backend (TypeScript/Node.js) z pełnym CI/CD przez GitHub Actions i Docker.
-* [Scout Pro](https://github.com/TechniKsawery/Zadania-praktyki-03) — Fullstackowa platforma scoutingowa dla klubów piłkarskich (React/TypeScript + Node.js/Express + Prisma) z modułem zawodników, raportami wspieranymi AI, RBAC i dashboardem analitycznym.
-* [System Automatyzacji Pracy Redakcji](https://github.com/TechniKsawery/Zadanie-na-praktyki_02) — Fullstackowa platforma B2B do workflow redakcyjnego automatyzująca cykl życia artykułów (IDEA → PUBLISHED) ze śledzeniem statusu i współpracą wieloużytkownika.
-* [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-db-sql-project) — Relacyjna baza danych (MS SQL Server) z wyzwalaczami, procedurami i widokami.
-* [Projekt-Cpp-2025](https://github.com/TechniKsawery/projekt-cpp-2025) — Programowanie systemowe w C/C++ zarządzane za pomocą CMake i Makefile.
-* [SklepCzekolada](https://github.com/TechniKsawery/Test-Case-y-SklepCzekolada) — Testy automatyczne w oparciu o metodologię TDD.
-* [BookManager](https://github.com/TechniKsawery/bookmanager) — Aplikacja na Androida w Kotlin/Jetpack Compose.
+* [Scout Pro](https://github.com/TechniKsawery/scout-pro-football-platform) — Fullstackowa platforma scoutingowa dla klubów piłkarskich (React/TypeScript + Node.js/Express + Prisma) z modułem zawodników, raportami wspieranymi AI, RBAC i dashboardem analitycznym.
+* [System Automatyzacji Pracy Redakcji](https://github.com/TechniKsawery/mini-jira-team-management_02) — Fullstackowa platforma B2B do workflow redakcyjnego automatyzująca cykl życia artykułów (IDEA → PUBLISHED) ze śledzeniem statusu i współpracą wieloużytkownika.
+* [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-database-management-system) — Relacyjna baza danych (MS SQL Server) z wyzwalaczami, procedurami i widokami.
+* [Projekt-Cpp-2025](https://github.com/TechniKsawery/cpp-console-project-2025) — Programowanie systemowe w C/C++ zarządzane za pomocą CMake i Makefile.
+* [SklepCzekolada](https://github.com/TechniKsawery/sklepczekolada-test-automation) — Testy automatyczne w oparciu o metodologię TDD.
+* [BookManager](https://github.com/TechniKsawery/android-book-manager) — Aplikacja na Androida w Kotlin/Jetpack Compose.
 
 📫 **Kontakt:**
 Jeśli dysponujesz ambitnym, niezależnym zadaniem do wykonania w trybie zdalnym, zapraszam do kontaktu:
