@@ -1,89 +1,94 @@
-# 👋 Hi there! I'm Ksawery (Ksavi)
+<div align="center">
 
-**AI-Driven Developer | Prompt Engineer | Cybersecurity Enthusiast (Red Team)**
+# Ksawery Bloch
 
-Welcome to my digital domain. I specialize in software engineering in the **AI-Driven Development** model: I design the complete logical architecture, manage databases and steer LLMs to generate source code, which lets me deliver complex system, mobile and full-stack applications single-handedly. I treat development as a continuous learning process, combining my own architectural decisions with modern AI-assisted methodology.
+### AI-Driven Developer · Prompt Engineer · Red Team Enthusiast
 
-### 💼 Work Philosophy & Availability
-I operate exclusively as a **Solo Developer in a 100% remote and asynchronous environment**. I believe that true productivity thrives on "Deep Work" and total autonomy. I am highly comfortable working independently on complex, self-contained systems that require minimal communication overhead.
+Full-stack, mobile and backend systems designed end to end — architecture, databases, CI/CD — with LLMs steered to write the code.
 
-I am not looking for traditional office-based or team-integrated environments involving frequent meetings. I prefer to be judged by the quality and performance of the systems I deliver. I do not use social media and operate in complete digital silence — my work speaks for itself.
+[![CV English](https://img.shields.io/badge/CV-English-1f6feb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](cv/Ksawery_Bloch_CV_EN.pdf)
+[![CV Polski](https://img.shields.io/badge/CV-Polski-d93f0b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](cv/Ksawery_Bloch_CV_PL.pdf)
+[![Email](https://img.shields.io/badge/Email-blochksawery%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blochksawery@gmail.com)
 
-### 💡 Technical Arsenal
-* **AI & Architecture:** Advanced Prompt Engineering, AI-Assisted Architecture design, UML Modeling, TDD (pytest, marshmallow).
-* **Languages:** Python (automation, backend, algorithmic challenges), TypeScript/JavaScript (web apps), PHP (backend & legacy refactoring), C++/C (systems programming), Kotlin/Dart (mobile development), HTML/CSS, SQL.
-* **Tools & DevOps:** GitHub Actions (CI/CD), Git, Docker, CMake, Makefile, Python virtual environments.
-* **Frameworks & Databases:** Node.js, React, Flutter, FastAPI, Supabase, Firebase, Prisma, PostgreSQL, MS SQL Server.
-* **Cybersecurity:** Red Team operations, Ethical Hacking, cybersec research, reverse engineering.
-* **Languages (spoken):** Polish (native), English (B1/B2), German (B2).
-* **Education:** TechniSchools Lublin — Programming Technician track.
+🇬🇧 English · 🇵🇱 [Wersja polska](README.pl.md)
 
-### 🚀 Selected Projects (AI-Powered)
-*All projects below were developed independently: I orchestrated AI models to handle code implementation while keeping full control over the architecture and logic.*
-
-#### Software engineering
-* **[Multimodal Fare Planner](https://github.com/TechniKsawery/multimodal-journey-fare-planner)** — *my most advanced project.* Multimodal journey planner for Poland and Germany that returns not only a route but an explained cost estimate: rail, regional and city transit, FlixBus and optional flights, with passenger profiles, discounts and city cards. Python (FastAPI + Streamlit) on top of the MOTIS routing engine with GTFS and OpenStreetMap data, Docker-based infrastructure, 4 GitHub Actions workflows (tests, GTFS freshness, fare-source monitoring), a 1,000+ test-function suite and source-tracked fare data with price-verification flags.
-* **[GradePredictor](https://github.com/TechniKsawery/grade-predictor)** — Cross-platform Flutter application (Dart, Riverpod, Supabase) integrated with the Librus school system (verified working) via custom Python data-extraction scripts. Gemini AI parses non-standard grade entries and forecasts averages; includes Google Calendar sync, charts and PL/EN/DE localization.
-* **[Mini Jira SaaS](https://github.com/TechniKsawery/mini-jira-team-management)** — Full-stack team and task management platform with a Kanban board, real-time chat (Socket.IO), online presence, teams and roles, analytics dashboard, file attachments and an activity audit trail. React + TypeScript frontend, Node.js/Express backend in a layered architecture (routes → controllers → services → repositories, JWT + RBAC, Zod validation), Supabase PostgreSQL with Row Level Security, Docker Compose and a GitHub Actions CI pipeline.
-* **[Scout Pro](https://github.com/TechniKsawery/scout-pro-football-platform)** — Full-stack football scouting platform (React/TypeScript + Node.js/Express + Prisma): player CRUD, custom SVG radar charts, scouting reports with transfer recommendations, AI-assisted analysis via Gemini (with a local fallback generator), watchlist, notifications, video uploads, PDF export and role-based access control (Admin / Head Scout / Scout).
-* **[E-Commerce QA Suite](https://github.com/TechniKsawery/sklepczekolada-test-automation)** — End-to-end test automation (Python, pytest, Playwright) for a live online shop: 12 documented scenarios covering search, filtering, cart, free-shipping threshold, login, registration, parcel-locker delivery, guest and B2B checkout and payment redirect.
-
-#### Cybersecurity (Red Team)
-* **[Local Network Penetration Testing Report](https://github.com/TechniKsawery/local-network-pentest-report)** — Authorized LAN/WiFi security assessment in a controlled lab: LLMNR/NBT-NS poisoning, DHCPv6/IPv6 MITM (mitm6), NTLM relay and ARP poisoning against Windows 10/11 targets using Responder, impacket, bettercap and nmap. A full report with executive summary, command transcript, attack-vector table, findings and hardening recommendations — including which defenses held.
-* **[Windows Security Recommendations](https://github.com/TechniKsawery/windows-red-team-lab)** — Hands-on red-team labs on my own hardware: file carving and data recovery from NTFS drives, offline NTLM hash extraction and analysis, and Windows Hello, TPM 2.0 and BitLocker protections — each with the reasoning and lessons learned.
-
-#### Also
-* [KSeF 2.0 QR Code Generator](https://github.com/TechniKsawery/ksef-qr-portfolio) — Case study of a PHP module (commercial B2B assignment) generating official KSeF 2.0 verification QR codes (KOD I) for Polish e-invoices, with SVG/PNG output and SHA-256 / Base64URL handling.
-* [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-database-management-system) — MS SQL Server reservation database with stored procedures, triggers and views, plus a PHP admin dashboard.
-
-📫 **Contact:**
-If you have a challenging, purely remote, independent task, feel free to contact me at:
-* 📧 [blochksawery@gmail.com](mailto:blochksawery@gmail.com)
-* 🏫 [u30_ksablo_lbn@technischools.com](mailto:u30_ksablo_lbn@technischools.com)
+</div>
 
 ---
 
-*(Wersja Polska)*
+## About me
 
-# 👋 Cześć! Jestem Ksawery (Ksavi)
+I build complete software systems as a solo developer. I design the logical architecture, model the data, set up CI/CD and Docker, and orchestrate LLMs to generate the implementation — while keeping every architectural decision, test and review in my own hands. That lets me deliver mobile, full-stack and system-level applications quickly and predictably.
 
-**AI-Driven Developer | Prompt Engineer | Pasjonat Cyberbezpieczeństwa (Red Team)**
+Programming Technician student at **TechniSchools Lublin**. Languages: Polish (native), German (B2), English (B1/B2).
 
-Witaj w mojej cyfrowej domenie. Specjalizuję się w inżynierii oprogramowania w modelu **AI-Driven Development**: projektuję kompletną architekturę logiczną, zarządzam bazami danych i steruję modelami LLM w celu generowania kodu źródłowego. Pozwala mi to w pojedynkę dostarczać złożone aplikacje systemowe, mobilne i full-stackowe. Rozwój oprogramowania traktuję jako ciągły proces uczenia się, łącząc własne decyzje architektoniczne z nowoczesną metodologią opartą na AI.
+**Work model:** 100% remote, asynchronous, independent. I do my best work on well-scoped, self-contained systems with written communication (specs, issues, pull requests) instead of constant meetings, and I let the delivered work speak for itself. Based in Lublin, Poland; working with Poland and the DACH region in mind.
 
-### 💼 Podejście do pracy
-Szukam możliwości współpracy wyłącznie w trybie **100% zdalnym i asynchronicznym**, gdzie mogę działać w pełni samodzielnie. Moim priorytetem jest "Deep Work" i całkowita niezależność w realizacji projektów. Komfortowo pracuję nad złożonymi, niezależnymi systemami wymagającymi minimalnych narzutów komunikacyjnych.
+> 📄 **Looking for a CV?** [English (PDF)](cv/Ksawery_Bloch_CV_EN.pdf) · [Polski (PDF)](cv/Ksawery_Bloch_CV_PL.pdf)
 
-Nie interesują mnie klasyczne środowiska biurowe oparte na częstych spotkaniach. Wolę, aby moja praca była oceniana przez jakość i skuteczność dostarczanych systemów. Nie korzystam z social mediów — działam w pełnej ciszy cyfrowej, a o mnie mówi moja praca.
+## Featured projects
 
-### 💡 Umiejętności Techniczne
-* **AI i Architektura:** Advanced Prompt Engineering, projektowanie architektury wspierane przez AI, UML, TDD (pytest, marshmallow).
-* **Języki programowania:** Python (automatyzacja, backend, algorytmy), TypeScript/JavaScript (aplikacje webowe), PHP (backend i refaktoryzacja legacy), C++/C (programowanie systemowe), Kotlin/Dart (aplikacje mobilne), HTML/CSS, SQL.
-* **Narzędzia i DevOps:** GitHub Actions (CI/CD), Git, Docker, CMake, Makefile, Python venv.
-* **Frameworki i bazy danych:** Node.js, React, Flutter, FastAPI, Supabase, Firebase, Prisma, PostgreSQL, MS SQL Server.
-* **Cyberbezpieczeństwo:** Operacje Red Team, Ethical Hacking, badania z zakresu cybersec, inżynieria wsteczna.
-* **Języki obce:** polski (ojczysty), angielski (B1/B2), niemiecki (B2).
-* **Edukacja:** TechniSchools Lublin — profil Technik Programista.
+| Project | What it is | Stack |
+|---|---|---|
+| ⭐ **[Multimodal Fare Planner](https://github.com/TechniKsawery/multimodal-journey-fare-planner)** · [**live demo**](https://techniksawery.github.io/multimodal-journey-fare-planner/) | Journey planner for Poland and Germany that returns a route **and an explained cost estimate** (rail, city transit, FlixBus, flights; passenger profiles, discounts, city cards). Routing, pricing and UI are separate layers; every fare carries its source and a price-verification flag. **1,000+ tests**, **7 GitHub Actions workflows** (tests, GTFS freshness, fare-source monitoring, Pages deploy). | Python · FastAPI · Streamlit · MOTIS · GTFS/OSM · Docker |
+| 📱 **[GradePredictor](https://github.com/TechniKsawery/grade-predictor)** | Cross-platform mobile app that syncs with the Librus school system (verified working) through custom Python extraction scripts, forecasts grade averages with Gemini AI, syncs with Google Calendar. PL/EN/DE. | Flutter · Dart · Riverpod · Supabase · Python · Gemini API |
+| 🗂️ **[Mini Jira SaaS](https://github.com/TechniKsawery/mini-jira-team-management)** | Kanban team-management platform: real-time chat and presence (Socket.IO), teams and roles, analytics, attachments, audit trail. Strict layered backend (routes → controllers → services → repositories), JWT + RBAC, Zod validation, PostgreSQL Row Level Security, Docker Compose and CI. | TypeScript · React · Node.js · Supabase · Docker · GitHub Actions |
+| ✍️ **[Editorial Workflow Automation](https://github.com/TechniKsawery/editorial-workflow-automation)** | CMS for editorial teams covering the whole article lifecycle (Idea → Draft → Review → Scheduled → Published) with a state machine, role system, calendar, scheduled-publishing worker and real-time WebSocket notifications. Monorepo with npm workspaces. | TypeScript · React · Vite · Prisma · Socket.IO |
+| ⚽ **[Scout Pro](https://github.com/TechniKsawery/scout-pro-football-platform)** | Football scouting platform: player CRUD, custom SVG radar charts, reports with transfer recommendation, Gemini-powered analysis with a local fallback generator, watchlist, notifications, video, PDF export, RBAC (Admin / Head Scout / Scout). | TypeScript · React · Node.js · Prisma · Gemini AI |
+| 🧪 **[E-Commerce QA Suite](https://github.com/TechniKsawery/sklepczekolada-test-automation)** | End-to-end test automation for a live online shop: 12 documented scenarios — search, filtering, cart, free-shipping threshold, login, registration, parcel-locker delivery, guest and B2B checkout, payment redirect. | Python · pytest · Playwright |
 
-### 🚀 Wybrane Projekty (AI-Powered)
-*Wszystkie poniższe projekty zbudowałem samodzielnie: modele AI realizowały implementację kodu, a ja zachowałem pełną kontrolę nad architekturą i logiką.*
+### Cybersecurity (authorized lab work only)
 
-#### Inżynieria oprogramowania
-* **[Multimodal Fare Planner](https://github.com/TechniKsawery/multimodal-journey-fare-planner)** — *mój najbardziej zaawansowany projekt.* Multimodalna wyszukiwarka podróży po Polsce i Niemczech, która zwraca nie tylko trasę, ale też wyjaśniony szacunek kosztu: kolej, transport regionalny i miejski, FlixBus oraz opcjonalnie loty, z profilami pasażerów, ulgami i kartami miejskimi. Python (FastAPI + Streamlit) na silniku routingu MOTIS z danymi GTFS i OpenStreetMap, infrastruktura w Dockerze, 4 workflow GitHub Actions (testy, aktualność GTFS, monitoring źródeł taryf), ponad 1000 funkcji testowych oraz dane taryfowe ze wskazanym źródłem i flagą weryfikacji ceny.
-* **[GradePredictor](https://github.com/TechniKsawery/grade-predictor)** — Wieloplatformowa aplikacja we Flutterze (Dart, Riverpod, Supabase) zintegrowana z systemem Librus (działanie potwierdzone) za pomocą autorskich skryptów Pythona do ekstrakcji danych. Gemini AI parsuje niestandardowe wpisy ocen i prognozuje średnie; aplikacja ma też synchronizację z Google Calendar, wykresy i lokalizację PL/EN/DE.
-* **[Mini Jira SaaS](https://github.com/TechniKsawery/mini-jira-team-management)** — Fullstackowa platforma do zarządzania zespołem i zadaniami: tablica Kanban, czat w czasie rzeczywistym (Socket.IO), status online, zespoły i role, panel analityczny, załączniki oraz historia aktywności (audit trail). Frontend React + TypeScript, backend Node.js/Express w architekturze warstwowej (routes → controllers → services → repositories, JWT + RBAC, walidacja Zod), Supabase PostgreSQL z Row Level Security, Docker Compose i pipeline CI w GitHub Actions.
-* **[Scout Pro](https://github.com/TechniKsawery/scout-pro-football-platform)** — Fullstackowa platforma scoutingowa dla klubów piłkarskich (React/TypeScript + Node.js/Express + Prisma): CRUD zawodników, autorskie wykresy radarowe SVG, raporty scoutingowe z rekomendacją transferową, analiza wspierana przez Gemini AI (z lokalnym generatorem awaryjnym), watchlista, powiadomienia, wideo, eksport do PDF i kontrola dostępu RBAC (Admin / Head Scout / Scout).
-* **[E-Commerce QA Suite](https://github.com/TechniKsawery/sklepczekolada-test-automation)** — Testy end-to-end (Python, pytest, Playwright) działającego sklepu internetowego: 12 udokumentowanych scenariuszy obejmujących wyszukiwanie, filtrowanie, koszyk, próg darmowej dostawy, logowanie, rejestrację, dostawę do paczkomatu, zamówienia gościa i B2B oraz przekierowanie do płatności.
+| Project | What it is |
+|---|---|
+| 🔴 **[Local Network Penetration Test Report](https://github.com/TechniKsawery/local-network-pentest-report)** | Authorized assessment in a controlled lab: LLMNR/NBT-NS poisoning, DHCPv6/IPv6 MITM (mitm6), NTLM relay and ARP poisoning against Windows 10/11. Full report with executive summary, attack-vector table, findings, hardening recommendations — including which defenses held. *Kali · Responder · impacket · bettercap · nmap* |
+| 🔴 **[Windows Red Team Labs](https://github.com/TechniKsawery/windows-red-team-lab)** | Hands-on labs on my own hardware: NTFS file carving and data recovery, offline NTLM hash extraction, and an analysis of Windows Hello, TPM 2.0 and BitLocker protections, each with lessons learned. |
 
-#### Cyberbezpieczeństwo (Red Team)
-* **[Raport z testów penetracyjnych sieci lokalnej](https://github.com/TechniKsawery/local-network-pentest-report)** — Autoryzowany audyt bezpieczeństwa LAN/WiFi w kontrolowanym środowisku laboratoryjnym: poisoning LLMNR/NBT-NS, DHCPv6/IPv6 MITM (mitm6), NTLM relay i ARP poisoning wobec celów z Windows 10/11 z użyciem Respondera, impacketa, bettercapa i nmapa. Pełny raport ze streszczeniem wykonawczym, zapisem poleceń, tabelą wektorów ataku, wynikami i rekomendacjami — w tym informacją, które zabezpieczenia zadziałały.
-* **[Rekomendacje bezpieczeństwa Windows](https://github.com/TechniKsawery/windows-red-team-lab)** — Praktyczne laboratoria red team na własnym sprzęcie: file carving i odzyskiwanie danych z dysków NTFS, offline'owa ekstrakcja i analiza hashy NTLM oraz zabezpieczenia Windows Hello, TPM 2.0 i BitLocker — każde z uzasadnieniem i wnioskami.
+### Also
 
-#### Dodatkowo
-* [KSeF 2.0 QR Generator](https://github.com/TechniKsawery/ksef-qr-portfolio) — Studium przypadku modułu PHP (komercyjne zlecenie B2B) generującego oficjalne kody weryfikacyjne QR KSeF 2.0 (KOD I) dla polskich e-faktur, z wyjściem SVG/PNG oraz obsługą SHA-256 / Base64URL.
-* [Hotel DB SQL Project](https://github.com/TechniKsawery/hotel-database-management-system) — Baza rezerwacji hotelowych w MS SQL Server z procedurami składowanymi, wyzwalaczami i widokami oraz panelem administracyjnym w PHP.
+- **[KSeF 2.0 QR Code Generator](https://github.com/TechniKsawery/ksef-qr-portfolio)** — case study of a commercial B2B PHP module generating official verification QR codes (KOD I) for Polish e-invoices: SHA-256 / Base64URL handling, SVG and PNG output.
+- **[Hotel Database](https://github.com/TechniKsawery/hotel-database-management-system)** — MS SQL Server schema with stored procedures, triggers and views, plus a PHP admin dashboard.
+- **[PAI2 REST API](https://github.com/TechniKsawery/pai2-rest-api)** — TypeScript + Express + MongoDB API with Swagger docs, Jest tests and a Postman collection.
+- **[Deep Space Social App](https://github.com/TechniKsawery/deep-space-social-app)** — Flutter + Supabase social app (auth, realtime feed, storage, i18n) with a glassmorphism UI.
+- **[Android Book Manager](https://github.com/TechniKsawery/android-book-manager)** — Kotlin Android app with a data / viewmodel / UI layering.
+- **[C++ Console Project](https://github.com/TechniKsawery/cpp-console-project-2025)** — modular C/C++ console app built with CMake and Make.
 
-📫 **Kontakt:**
-Jeśli dysponujesz ambitnym, niezależnym zadaniem do wykonania w trybie zdalnym, zapraszam do kontaktu:
-* 📧 [blochksawery@gmail.com](mailto:blochksawery@gmail.com)
-* 🏫 [u30_ksablo_lbn@technischools.com](mailto:u30_ksablo_lbn@technischools.com)
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MS SQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+**Practices:** AI-assisted architecture · advanced prompt engineering · layered architecture (repository pattern) · JWT + RBAC · PostgreSQL Row Level Security · TDD · CI/CD · containerization · UML · authorized penetration testing.
+
+## Contact
+
+- 📧 [blochksawery@gmail.com](mailto:blochksawery@gmail.com)
+- 🏫 [u30_ksablo_lbn@technischools.com](mailto:u30_ksablo_lbn@technischools.com)
+- 💼 Open to remote roles and freelance projects — especially backend, full-stack, mobile (Flutter) and QA automation.
