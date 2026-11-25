@@ -22,7 +22,7 @@ I build complete software systems as a solo developer. I design the logical arch
 
 Programming Technician student at **TechniSchools Lublin**. Languages: Polish (native), German (B2), English (B1/B2).
 
-**Work model:** 100% remote, asynchronous, independent. I do my best work on well-scoped, self-contained systems with written communication (specs, issues, pull requests) instead of constant meetings, and I let the delivered work speak for itself. Based in Lublin, Poland; working with Poland and the DACH region in mind.
+**Work model:** 100% remote, asynchronous, independent. I do my best work on well-scoped, self-contained systems with written communication (specs, issues, pull requests) instead of constant meetings, and I let the delivered work speak for itself. Based in Lublin, Poland; open to employers and clients worldwide.
 
 > 📄 **Looking for a CV?** [English (PDF)](cv/Ksawery_Bloch_CV_EN.pdf) · [Polski (PDF)](cv/Ksawery_Bloch_CV_PL.pdf)
 

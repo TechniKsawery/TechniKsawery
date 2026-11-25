@@ -22,7 +22,7 @@ Buduję kompletne systemy informatyczne jako solo developer. Projektuję archite
 
 Uczeń technikum, profil Technik Programista, **TechniSchools Lublin**. Języki: polski (ojczysty), niemiecki (B2), angielski (B1/B2).
 
-**Model pracy:** 100% zdalnie, asynchronicznie, samodzielnie. Najlepiej pracuje mi się nad dobrze określonymi, zamkniętymi systemami, przy komunikacji pisemnej (specyfikacje, issues, pull requesty) zamiast ciągłych spotkań — niech mówi za mnie dostarczona robota. Lublin; pracuję z myślą o rynku polskim i DACH.
+**Model pracy:** 100% zdalnie, asynchronicznie, samodzielnie. Najlepiej pracuje mi się nad dobrze określonymi, zamkniętymi systemami, przy komunikacji pisemnej (specyfikacje, issues, pull requesty) zamiast ciągłych spotkań — niech mówi za mnie dostarczona robota. Lublin; otwarty na współpracę z firmami i klientami z całego świata.
 
 > 📄 **Szukasz CV?** [Polski (PDF)](cv/Ksawery_Bloch_CV_PL.pdf) · [English (PDF)](cv/Ksawery_Bloch_CV_EN.pdf)
 
