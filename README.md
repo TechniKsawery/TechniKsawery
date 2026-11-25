@@ -46,6 +46,7 @@ Programming Technician student at **TechniSchools Lublin**. Languages: Polish (n
 
 ### Also
 
+- **[Dental practice website](https://gabinet-powierza-bloch.pages.dev/)** — live site for a dental practice in Lublin: interactive tooth-anatomy diagram, open/closed status computed from opening hours, dark-mode and larger-font toggles. Built with Astro and hosted on Cloudflare Pages.
 - **[KSeF 2.0 QR Code Generator](https://github.com/TechniKsawery/ksef-qr-portfolio)** — case study of a commercial B2B PHP module generating official verification QR codes (KOD I) for Polish e-invoices: SHA-256 / Base64URL handling, SVG and PNG output.
 - **[Hotel Database](https://github.com/TechniKsawery/hotel-database-management-system)** — MS SQL Server schema with stored procedures, triggers and views, plus a PHP admin dashboard.
 - **[PAI2 REST API](https://github.com/TechniKsawery/pai2-rest-api)** — TypeScript + Express + MongoDB API with Swagger docs, Jest tests and a Postman collection.

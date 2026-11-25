@@ -46,6 +46,7 @@ Uczeń technikum, profil Technik Programista, **TechniSchools Lublin**. Języki:
 
 ### Dodatkowo
 
+- **[Strona gabinetu stomatologicznego](https://gabinet-powierza-bloch.pages.dev/)** — działająca strona gabinetu w Lublinie: interaktywny rysunek budowy zęba, status „otwarte/zamknięte” liczony z godzin przyjęć, przełączniki ciemnego motywu i większej czcionki. Astro, hosting na Cloudflare Pages.
 - **[Generator QR KSeF 2.0](https://github.com/TechniKsawery/ksef-qr-portfolio)** — studium przypadku komercyjnego modułu PHP (zlecenie B2B) generującego oficjalne kody weryfikacyjne QR (KOD I) dla polskich e-faktur: SHA-256 / Base64URL, wyjście SVG i PNG.
 - **[Baza danych hotelu](https://github.com/TechniKsawery/hotel-database-management-system)** — schemat MS SQL Server z procedurami, wyzwalaczami i widokami oraz panel administracyjny w PHP.
 - **[PAI2 REST API](https://github.com/TechniKsawery/pai2-rest-api)** — API w TypeScript + Express + MongoDB z dokumentacją Swagger, testami Jest i kolekcją Postman.
